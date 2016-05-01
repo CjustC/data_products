@@ -4,9 +4,9 @@
  
 The *quake_app* displays the **classification** of the earthquakes based on data from the *quakes* data set.
 
-### Slidify Presentation: [Location of Earthquakes near the Tonga Trench](http://rpubs.com/cjustc/177558) 
+### Slidify Presentation: [Location of Earthquakes near the Tonga Trench](http://cjustc.github.io/data_products_slidify_shiny) 
 
-*Some images are not displaying. Some text is being centered. Some html is being displayed. This is not my doing, there are Slidify bugs, please keep this in mind when grading. (I did perform all the workarounds suggested by ramnathv/slidify faq but these failed). I spent hours trying to workaround Slidify bugs.*
+*Some text is being centered. Some html is being displayed. This is not my doing, there are Slidify bugs, please keep this in mind when grading. (I did perform all the workarounds suggested by ramnathv/slidify faq but these failed). I spent hours trying to workaround Slidify bugs.*
 
 
  
