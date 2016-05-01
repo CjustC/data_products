@@ -1,4 +1,4 @@
-## Click the following links to see my pitch for the Developing Data Products assignment.
+Click the following links to see my pitch for the Developing Data Products assignment.
 
 ### Shiny App [quake_app](https://minionapp.shinyapps.io/quake_app/) 
  
